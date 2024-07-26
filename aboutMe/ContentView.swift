@@ -45,7 +45,7 @@ struct ContentView: View {
                             .cornerRadius(15.0)
                             .shadow(radius: 15)
                                                 
-                    Text ("-my fav thing to do is music + long walk combo,")
+                    Text ("-my fav thing to do is music & long walk combo,")
                         .padding()
                         .background(Rectangle().foregroundColor (.white))
                             .cornerRadius(15.0)
